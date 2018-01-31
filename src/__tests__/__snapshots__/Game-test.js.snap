@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game Changes Board state when clicked 1`] = `
+<div>
+  <div
+    className="row board-row"
+  >
+    <div
+      className="col-2 text-center game"
+    >
+      <div
+        className="title"
+      >
+        <h3>
+          Tic Tac Toe
+        </h3>
+      </div>
+      <div
+        className="game-board"
+      >
+        <div>
+          <div
+            className="board-row"
+          >
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+          </div>
+          <div
+            className="board-row"
+          >
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+          </div>
+          <div
+            className="board-row"
+          >
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+            <button
+              className="square"
+              disabled={true}
+              onClick={[Function]}
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="start-game text-center"
+      >
+        <button
+          className="btn btn-default"
+          onClick={[Function]}
+        >
+          Start Game
+        </button>
+      </div>
+    </div>
+    <div
+      className="col-1 text-center game-info"
+    >
+      <div
+        className="player-info"
+      >
+        Player1(x)
+      </div>
+      <div
+        className="player-info"
+      >
+        Player2(0)
+      </div>
+      <div
+        className=""
+      >
+        Next player: X
+      </div>
+    </div>
+  </div>
+  <footer
+    className="text-center"
+  >
+    <p>
+      Made with love and logic by:
+      <a
+        href="https://github.com/Dikaeinstein"
+      >
+         Dikaeinstein
+      </a>
+    </p>
+  </footer>
+</div>
+`;
