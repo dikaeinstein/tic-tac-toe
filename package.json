@@ -24,7 +24,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.5.1",
     "gh-pages": "^2.0.1",
-    "react-test-renderer": "^16.2.0"
+    "react-test-renderer": "^16.10.1"
   },
   "homepage": "http://dikaeinstein.github.io/tic-tac-toe"
 }
